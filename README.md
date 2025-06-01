@@ -37,3 +37,56 @@ Hotel-Booking-Web-App-master/
 │   └── package.json        # Project metadata and dependencies
 │
 └── Readme.md               # Existing documentation (can be enhanced)
+
+
+🖼️ Screenshots
+You can update this section with screenshots from /client/src/assets/ such as:
+
+Home page with hotel image
+
+Booking form
+
+Confirmation or error messages
+
+📦 Setup Instructions
+Clone the repository:
+
+bash
+Copy
+Edit
+git clone https://github.com/yourusername/hotel-booking-web-app.git
+cd hotel-booking-web-app/client
+Install dependencies:
+
+bash
+Copy
+Edit
+npm install
+Run the app locally:
+
+bash
+Copy
+Edit
+npm start
+Visit:
+
+arduino
+Copy
+Edit
+http://localhost:3000
+🧱 To-Do / Enhancements
+🔐 Add user authentication
+
+🗂️ Integrate backend for bookings
+
+📧 Email confirmations
+
+📊 Admin dashboard
+
+🤝 Contributing
+Contributions are welcome! Fork the repository and submit a pull request for review.
+
+📄 License
+This project is licensed under the MIT License.
+
+
