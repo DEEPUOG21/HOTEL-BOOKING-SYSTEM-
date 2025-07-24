@@ -39,14 +39,7 @@ Hotel-Booking-Web-App-master/
 └── Readme.md               # Existing documentation (can be enhanced)
 
 
-🖼️ Screenshots
-You can update this section with screenshots from /client/src/assets/ such as:
 
-Home page with hotel image
-
-Booking form
-
-Confirmation or error messages
 
 📦 Setup Instructions
 Clone the repository:
